@@ -13,10 +13,10 @@ public class Exercise1_4 {
            n=n/10;
        }
        if(result==temp){
-           System.out.print("1");
+           System.out.print("Armstrong");
        }
        else{
-           System.out.print("0");
+           System.out.print("Not Armstrong");
        }
        }
        }
